@@ -1,0 +1,11 @@
+{
+    "name": "Coreapi",
+    "alias": "coreapi",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Coreapi\\Providers\\CoreapiServiceProvider"
+    ],
+    "files": []
+}
